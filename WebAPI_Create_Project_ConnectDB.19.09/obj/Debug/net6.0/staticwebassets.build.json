@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vrbhRyNuSgpyuyvmSr3v3K3H+7J+Shb8hx7Jndhwhwc=",
+  "Source": "WebApi_Connect_DB",
+  "BasePath": "_content/WebApi_Connect_DB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
