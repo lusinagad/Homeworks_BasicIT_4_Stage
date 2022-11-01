@@ -22,25 +22,9 @@ namespace ConsoleApp1
            
             example.firstExmp(); // asynchronous 
             example.secondExmp(); 
-
-            
+         
 
         }               
     }
 }
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
+    
